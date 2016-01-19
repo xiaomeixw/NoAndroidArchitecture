@@ -10,3 +10,25 @@ There are four parts about Android Architecture :
 - Part3: Android Architecture Actual Combat
 - Part4: My blog's Article:Those things about the Android Architecture.(In Chinese)
 
+
+## MVC
+
+![](http://i.imgur.com/gBaojOU.png)
+
+
+## MVP
+
+![](http://i.imgur.com/tnDb3CP.png)
+
+## MVVP
+
+![](http://i.imgur.com/B52mY6M.png)
+
+## Flux
+
+![](http://i.imgur.com/wHjqy4u.png)
+
+## Reactive
+
+![](http://i.imgur.com/XsLEEZO.png)
+

@@ -32,3 +32,6 @@ There are four parts about Android Architecture :
 
 ![](http://i.imgur.com/XsLEEZO.png)
 
+## Google-dev
+
+![](http://i.imgur.com/zKIX3r8.png)

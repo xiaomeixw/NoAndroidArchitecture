@@ -10,6 +10,10 @@ There are four parts about Android Architecture :
 - Part3: Android Architecture Actual Combat
 - Part4: My blog's Article:Those things about the Android Architecture.(In Chinese)
 
+## Clean
+
+![](http://i.imgur.com/9f6JAaH.png)
+
 
 ## MVC
 

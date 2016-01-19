@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoAndroidArchitecture.iml" filepath="$PROJECT_DIR$/NoAndroidArchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clean/clean.iml" filepath="$PROJECT_DIR$/clean/clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flex/flex.iml" filepath="$PROJECT_DIR$/flex/flex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flux/flux.iml" filepath="$PROJECT_DIR$/flux/flux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-dev/google-dev.iml" filepath="$PROJECT_DIR$/google-dev/google-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvp/mvvp.iml" filepath="$PROJECT_DIR$/mvvp/mvvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive/reactive.iml" filepath="$PROJECT_DIR$/reactive/reactive.iml" />
+    </modules>
+  </component>
+</project>

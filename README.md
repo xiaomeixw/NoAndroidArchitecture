@@ -24,7 +24,7 @@ There are four parts about Android Architecture :
 
 ![](http://i.imgur.com/tnDb3CP.png)
 
-## MVVP
+## MVVM
 
 ![](http://i.imgur.com/B52mY6M.png)
 

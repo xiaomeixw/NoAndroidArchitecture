@@ -39,3 +39,8 @@ There are four parts about Android Architecture :
 ## Google-dev
 
 ![](http://i.imgur.com/zKIX3r8.png)
+
+## Google-MVP
+
+![](https://github.com/googlesamples/android-architecture/wiki/images/mvp-clean.png)
+
